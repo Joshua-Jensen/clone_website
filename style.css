@@ -1,0 +1,32 @@
+.background-tequila {
+    background-image: url("https://static.pxlecdn.com/photos/460416024/original/e11c3f03364febd55d85.jpg");
+    min-height: 60vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+.image-bg-links-1 {
+    background-image: url(https://cdn11.bigcommerce.com/s-b0811/images/stencil/500x659/products/9020/22049/teramana-blanco-tequila__84221.1659381707.jpg?c=2);
+    background-size: cover;
+    background-position: center;
+    min-height: 30vh;
+}
+
+.image-bg-links-2 {
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+}
+
+.image-bg-links-3 {
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+}
+
+.ps-6 {
+    padding-left: 5em;
+}
